@@ -1,1 +1,1 @@
-[solution design](https://github.com/hswarup/aws/blob/main/Solution_Design.png)
+![solution design](Solution_Design.png)
